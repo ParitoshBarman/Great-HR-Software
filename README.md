@@ -18,7 +18,7 @@ Great HR Software is an advanced HR management system designed to track and anal
 - Other necessary electronic components
 
 ## Software Stack
-- **Backend**: Python Django
+- **Backend**: Python, Django
 - **Frontend**: HTML, CSS, JavaScript (with a focus on a good-looking UI)
 - **Database**: PostgreSQL or MySQL
 - **Notifications**: Email and WhatsApp or Application
