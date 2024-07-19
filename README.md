@@ -21,7 +21,7 @@ Great HR Software is an advanced HR management system designed to track and anal
 - **Backend**: Python Django
 - **Frontend**: HTML, CSS, JavaScript (with a focus on a good-looking UI)
 - **Database**: PostgreSQL or MySQL
-- **Notifications**: Email and WhatsApp APIs
+- **Notifications**: Email and WhatsApp or Application
 
 ## Implementation Plan
 1. **Hardware Integration**: Assemble and test the hardware components.
