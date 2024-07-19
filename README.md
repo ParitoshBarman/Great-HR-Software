@@ -27,7 +27,7 @@ Great HR Software is an advanced HR management system designed to track and anal
 1. **Hardware Integration**: Assemble and test the hardware components.
 2. **Backend Development**: Set up the Django server, create models for attendance and notifications.
 3. **Frontend Development**: Develop a responsive and attractive UI.
-4. **Notification System**: Integrate email and WhatsApp APIs for notifications.
+4. **Notification System**: Integrate email and WhatsApp for notifications.
 5. **Testing**: Thorough testing of the entire system.
 6. **Deployment**: Deploy the system on the hospital server and ensure secure access.
 
